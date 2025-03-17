@@ -1,5 +1,7 @@
 # LeetCode Exercises
+
 This is my repository of LeetCode Exercises
+
 My list of completed exercises:
 
  [1. Two Sum](https://leetcode.com/problems/two-sum/)
