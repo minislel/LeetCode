@@ -14,5 +14,7 @@ My list of completed exercises:
 
  [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
+ [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
  [169. Majority Element](https://leetcode.com/problems/majority-element/)
 
