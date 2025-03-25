@@ -1,17 +1,5 @@
 ﻿namespace _13
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Solution solution = new Solution();
-            Console.WriteLine(solution.RomanToInt("III"));
-            Console.WriteLine(solution.RomanToInt("IV"));
-            Console.WriteLine(solution.RomanToInt("IX"));
-            Console.WriteLine(solution.RomanToInt("LVIII"));
-            Console.WriteLine(solution.RomanToInt("MCMXCIV"));
-        }
-    }
     public class Solution
     {
         private Dictionary<char, int> romanMap = new Dictionary<char, int>
