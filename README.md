@@ -24,5 +24,7 @@ My list of completed exercises:
 
  [169. Majority Element](https://leetcode.com/problems/majority-element/)
 
+ [412. Fizz Buzz] (https://leetcode.com/problems/fizz-buzz/)
+
  [1672. Richest Customer Length](https://leetcode.com/problems/richest-customer-wealth/)
 
