@@ -9,6 +9,8 @@ My list of completed exercises:
  [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
  [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+
+ [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
  
  [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/))
 
@@ -24,7 +26,7 @@ My list of completed exercises:
 
  [169. Majority Element](https://leetcode.com/problems/majority-element/)
 
- [412. Fizz Buzz] (https://leetcode.com/problems/fizz-buzz/)
+ [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 
  [1672. Richest Customer Length](https://leetcode.com/problems/richest-customer-wealth/)
 
