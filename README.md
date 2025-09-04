@@ -11,6 +11,8 @@ My list of completed exercises:
  [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
  [4. Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+ 
+ [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 
  [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
